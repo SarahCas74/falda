@@ -1,0 +1,16 @@
+{
+    "name": "beautyartsmile/website",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Beautyartsmile\\Website\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "beautyartsmile"
+        }
+    ]
+}
